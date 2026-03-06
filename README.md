@@ -1,11 +1,9 @@
 # ROS TurtleBot3 Simulation and Density-Based Traffic Control System
+Robotics simulation and embedded system implementation for autonomous navigation and adaptive traffic signal control.
 
-This repository presents two implementations demonstrating concepts from robotics simulation and embedded systems.
-
-• TurtleBot3 simulation using **ROS Noetic and Gazebo**  
-• Density-based traffic signal control using **Arduino and ultrasonic sensing**
-
-The project explores how sensor-driven automation can be applied to robotic navigation and intelligent traffic management systems.
+This project implements:
+• TurtleBot3 robot simulation using ROS and Gazebo
+• A density-based traffic signal controller using Arduino and ultrasonic sensing
 
 ---
 
